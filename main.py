@@ -1,16 +1,7 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+i = 0
+# Просто тестирую коммиты. PS Так выглядит коммент. Они нужны, чтобы объяснять другим, что ты сделал и зачем.
+# Пока не разобрался. Вроде тут должны быть комменты со ссылками куда-то. В джаве так можно.
+while i < 10:
+    print("Здорова, бандиты")
+    i = i + 1
+# Кст, что забавно, питон ругается на отсутствие табуляции в 4 и 5 строчках, когда в других языках на это насрать.
